@@ -70,7 +70,7 @@ function App() {
       <UserCard
         name="Prakash"
         age={21}
-        bio=B.tech Student."
+        bio="B.tech Student."
       />
     </div>
   );
